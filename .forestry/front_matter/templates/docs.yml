@@ -27,6 +27,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/docs/getting-started/index.md
 - src/pages/docs/getting-started/installation.md
 - src/pages/docs/ui-components/typography.md
 - src/pages/docs/ui-components/index.md
@@ -36,7 +37,6 @@ pages:
 - src/pages/docs/manage-content/index.md
 - src/pages/docs/index.md
 - src/pages/docs/getting-started/quick-start.md
-- src/pages/docs/getting-started/index.md
 - src/pages/docs/faq/index.md
 - src/pages/docs/community/index.md
 - src/pages/docs/about/overview.md
