@@ -32,11 +32,6 @@ sections:
   templates:
   - social
 - type: document
-  path: src/data/doc_sections.yml
-  label: Documentation Sections
-  templates:
-  - doc_sections
-- type: document
   path: src/pages/index.md
   label: Home
   templates:
