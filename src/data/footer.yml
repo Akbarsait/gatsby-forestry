@@ -1,4 +1,8 @@
 ---
 content: "&copy; Random Thoughts. All rights reserved."
-links: []
+links:
+- new_window: true
+- text: Twitter
+  url: https://twitter.com
+  new_window: true
 has_social: true
