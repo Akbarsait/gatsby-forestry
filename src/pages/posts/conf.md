@@ -1,5 +1,5 @@
 ---
-title: New Conference Title to Explore
+title: Content to Explore
 date: 2019-03-10
 thumb_img_path: images/2.jpg
 content_img_path: images/2.jpg
