@@ -2,6 +2,8 @@
 content: "&copy; Random Thoughts. All rights reserved."
 links:
 - new_window: true
+  text: Akbarsait
+  url: https://www.akbarsait.com/
 - text: Twitter
   url: https://twitter.com
   new_window: true
