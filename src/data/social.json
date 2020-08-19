@@ -1,12 +1,6 @@
 {
   "links": [
     {
-      "type": "instagram",
-      "title": "Instagram",
-      "icon": "fa-instagram",
-      "url": "https://www.instagram.com/akbarsait"
-    },
-    {
       "type": "github",
       "title": "GitHub",
       "icon": "fa-github",
