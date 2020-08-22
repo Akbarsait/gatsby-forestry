@@ -39,7 +39,7 @@ sections:
     actions:
     - label: Learn More
       url: "/style-guide.html"
-  title: ''
+  title: Awesome Seciton
   subtitle: ''
 - type: contentblock
   template: contentblock
