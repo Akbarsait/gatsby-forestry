@@ -43,7 +43,7 @@ sections:
   subtitle: ''
 - type: contentblock
   template: contentblock
-  title: A Section With An Image
+  title: The core seciton to Post
   section_id: text-img
   component: ContentBlock
   content: Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
