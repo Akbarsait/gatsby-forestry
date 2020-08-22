@@ -8,6 +8,8 @@ Site is viewable at - https://gatsby-forestry-52270.netlify.app/
 
 The content is managed by [https://forestry.io](https://forestry.io).
 
+- More changes to post are added along with changes to Hero and Features sections. 8/21
+
 # Running Your Site Locally
 
 1. Install [Node.js and npm](https://nodejs.org/en/)
